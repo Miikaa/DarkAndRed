@@ -1,0 +1,14 @@
+//META{"name":"Dark and Red","description":"Dark and Red..","author":"Miika","version":"0.1"}*//
+
+/* IMPORT CSS FROM GITHUB */
+@import url("https://raw.githubusercontent.com/Miikaa/DarkAndRed/master/DarkAndRedTheme.theme.css");
+/*
+---------------------------------------------------------------------------------------------------------------------------------------------
+Change discord to dark theme.
+---------------------------------------------------------------------------------------------------------------------------------------------
+===== CUSTOMIZABLE COLORS =====
+*/
+:root { 
+ --main-color: #8d2036;
+ --hover-color: #6f182a;
+ }
